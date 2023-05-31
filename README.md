@@ -1,3 +1,9 @@
+<h2>नमस्ते (Namaste)🙏🏻, I'm Abhinav kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+</em></p>
+
+
+
+
 <br />
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
