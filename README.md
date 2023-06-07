@@ -1,7 +1,7 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Abhinav kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 </em></p>
 
-# 💫 About Me:
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" /> About Me:
 🔭 I’m currently working on Open source projects and MERN stack development<br>👯 I’m looking to collaborate on exciting open-source projects and innovative web applications.<br>🤝 I’m looking for help with advanced backend development concepts and DevOps practices.<br>🌱 I’m currently learning MERN stack and Data science<br>💬 Ask me about Front-End Development<br>⚡ Fun fact : Too productive ;)
 
 
