@@ -1,4 +1,4 @@
-<h2> नमस्ते (Namaste)🙏🏻, I'm Abhinav kumar!</h2>
+<h2> नमस्ते (Namaste)🙏🏻, I'm Abhinav kumar!  <img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="80" /></h2>
 </em></p>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
