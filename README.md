@@ -7,9 +7,8 @@
 🔭 I’m currently working on Open source projects and MERN stack development<br>👯 I’m looking to collaborate on exciting open-source projects and innovative web applications.<br>🤝 I’m looking for help with advanced backend development concepts and DevOps practices.<br>🌱 I’m currently learning MERN stack and Data science<br>💬 Ask me about Front-End Development<br>⚡ Fun fact : Too productive ;)
 
 
- <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-    <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="500">
+ <div align="left">
+       <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="500">
 </div>
 
 
